@@ -1,0 +1,7 @@
+There are total votes of 3521001
+
+           Counts Percentages
+Khan      2218231       63.0%
+Correy     704200       20.0%
+Li         492940       14.0%
+O'Tooley   105630        3.0%

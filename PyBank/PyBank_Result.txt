@@ -1,0 +1,11 @@
+Total Months: 86
+Total: 38382578
+Average Change: $446309
+Greatest Increase in Profits: 
+Date             Feb-2012
+Profit/Losses     1170593
+Name: 25, dtype: object
+Greatest Losses in Profits: 
+Date             Sep-2013
+Profit/Losses    -1196225
+Name: 44, dtype: object
